@@ -1,0 +1,41 @@
+2023-07-07T14:02:58,738 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-07-07T14:02:58,743 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2023-07-07T14:02:58,745 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-07-07T14:02:58,745 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-07-07T14:02:58,745 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-07-07T14:02:58,745 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-07-07T14:02:58,746 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-07-07T14:02:58,746 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-07-07T14:02:58,746 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-07-07T14:02:58,746 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-07-07T14:02:58,747 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-07-07T14:02:58,747 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-07-07T14:02:58,747 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-07-07T14:02:58,747 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-07-07T14:02:58,748 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-07-07T14:02:58,748 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-07-07T14:02:58,753 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-07-07T14:02:58,753 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-07-07T14:02:58,754 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-07-07T14:02:58,754 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-07-07T14:02:58,755 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-07-07T14:02:58,755 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-07-07T14:02:58,755 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-07-07T14:02:58,755 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-07-07T14:02:58,758 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2023-07-07T14:02:58,761 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2023-07-07T14:02:58,762 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-07-07T14:02:58,762 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-07-07T14:02:58,762 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2023-07-07T14:02:58,762 [main] INFO  (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2023-07-07T14:02:58,770 [main] INFO  (Logger.java:112) - [TestNG] Running:
+  C:\Users\10689958\AppData\Local\Temp\testng-eclipse--891586260\testng-customsuite.xml
+
+2023-07-07T14:02:58,784 [main] INFO  (Logger.java:112) - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+2023-07-07T14:03:00,934 [main] INFO  (Logger.java:112) - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@317890ea: 28 ms
+2023-07-07T14:03:00,989 [main] INFO  (Logger.java:112) - [TestNG] Time taken by org.testng.reporters.jq.Main@35dece42: 55 ms
+2023-07-07T14:03:01,000 [main] INFO  (Logger.java:112) - [TestNG] Time taken by org.testng.reporters.FailedReporter@420a8042: 11 ms
+2023-07-07T14:03:01,010 [main] INFO  (Logger.java:112) - [TestNG] Time taken by org.testng.reporters.XMLReporter@3f8dfe74: 9 ms
+2023-07-07T14:03:01,015 [main] INFO  (Logger.java:112) - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@d325518: 5 ms
+2023-07-07T14:03:01,023 [main] INFO  (Logger.java:112) - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@28cd2c2: 6 ms
+2023-07-07T14:03:01,023 [main] INFO  (Logger.java:112) - [TestNG] Time taken by org.testng.internal.ExitCodeListener@8e25d3f: 0 ms

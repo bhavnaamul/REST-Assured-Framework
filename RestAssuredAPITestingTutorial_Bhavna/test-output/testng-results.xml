@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-12T16:48:13 IST" name="Default suite" finished-at="2023-07-12T16:48:22 IST" duration-ms="9093">
+    <groups>
+    </groups>
+    <test started-at="2023-07-12T16:48:13 IST" name="Default test" finished-at="2023-07-12T16:48:22 IST" duration-ms="9093">
+      <class name="com.testingapi.getrequest.PutAPIRequest">
+        <test-method signature="PutAPIReq()[pri:0, instance:com.testingapi.getrequest.PutAPIRequest@625e134e]" started-at="2023-07-12T16:48:13 IST" name="PutAPIReq" finished-at="2023-07-12T16:48:22 IST" duration-ms="9063" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PutAPIReq -->
+      </class> <!-- com.testingapi.getrequest.PutAPIRequest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
